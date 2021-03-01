@@ -4,4 +4,4 @@ Welcome to the official **Kraftabie** datapack page! You can also view the offic
 
 Whether that would be eggs, Notch Apples, horse armor, every single item will be craftable!
 
-For more information on how to install, and other useful information, please check the [wiki](github.com/Kraftabie/kraftabie-mod/Wiki)!
+For more information on how to install, and other useful information, please check the [wiki](github.com/Kraftabie/kraftabie-mod/wiki)!
