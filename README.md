@@ -8,3 +8,4 @@ For more information on how to install, and other useful information, please che
 
 # Notice!
 This mod is for 1.15.X versions of Minecraft, please make sure you are on those versions and not anything else.
+There will be some recipes missing, mostly because it's impossible to make them into recipes, such as custom enchantments, custom name tags, etc.
